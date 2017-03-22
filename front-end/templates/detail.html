@@ -1,0 +1,121 @@
+$def with (info,aliases,properties)
+<!DOCTYPE html>
+	<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+	<title>weki</title>
+	<script type="text/javascript" src="../static/detail.js"></script>
+	<link rel="stylesheet" type="text/css" href="../static/detail.css">
+	<link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  	<!--Import materialize.css-->
+  	<link type="text/css" rel="stylesheet" href="../static/css/materialize.min.css"  media="screen,projection"/>
+
+  <!--Let browser know website is optimized for mobile-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	</head>
+	<body>
+		<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+		<script type="text/javascript" src="../static/js/materialize.min.js"></script>
+		<script type="text/javascript">
+			jQuery(document).ready(function() {
+				jQuery('select').material_select();
+			});
+		</script>
+		<div class='title'>
+			<div class='name'>
+				$info['name']
+			</div>
+			<div class='description'>
+				$info['description']
+			</div>
+		</div>
+		<div class='property col s12 m7'>
+			<div class='ptitle'>
+				also known as
+			</div>
+			<div class='pcontent'>
+				$for idx,name in enumerate(aliases):
+					$if idx!=len(aliases):
+						<ali>$name,</ali>
+					$else:
+						<ali>$name</ali>
+			</div>
+		</div>
+		$if 'instance of' in properties or 'subclass of' in properties:
+			<div class='property col s12 m7'>
+				<div class = 'ptitle'>
+					Categories
+				</div>
+				<div class='pcontent'>
+				$for item in (properties['instance of'] if 'instance of' in properties else [])+(properties['subclass of'] if 'subclass of' in properties else []):
+					<div class='pproperty'>
+						$if item['property'][0]=='entity':
+							<a class='entityProperty' href="../detail?entity=$item['property'][1]">
+								$item['property'][2]
+							</a>
+						$else:
+							$item['property'][1]
+					</div>
+					<div class='pqualifier'>
+						$if item['qualifier'][0]!=None:
+							$item['qualifierName']
+							$if item['qualifier'][0]=='entity':
+								<a class='entityProperty' href="../detail?entity=$item['qualifier'][1]">
+									$item['qualifier'][2]
+								</a>
+							$else:
+								$item['qualifier'][1]
+					</div>
+					<div class='preference'>
+						$if item['reference'][0]!=None:
+							$item['referenceName']
+							$if item['reference'][0]=='entity':
+								<a class='entityProperty' href="../detail?entity=$item['reference'][1]">
+									$item['reference'][2]
+								</a>
+							$else:
+								$item['reference'][1]
+					</div>
+				</div>
+			</div>
+		$for property in properties:
+			$if property=='instance of' or property == 'subclass of':
+				$continue
+			<div class='property col s12 m7'>
+				<div class='ptitle'>
+					$property
+				</div>
+				<div class='pcontent'>
+				$for item in properties[property]:
+					<div class='pproperty'>
+						$if item['property'][0]=='entity':
+							<a class='entityProperty' href="../detail?entity=$item['property'][1]">
+								$item['property'][2]
+							</a>
+						$else:
+							$item['property'][1]
+					</div>
+					<div class='pqualifier'>
+						$if item['qualifier'][0]!=None:
+							$item['qualifierName']
+							$if item['qualifier'][0]=='entity':
+								<a class='entityProperty' href="../detail?entity=$item['qualifier'][1]">
+									$item['qualifier'][2]
+								</a>
+							$else:
+								$item['qualifier'][1]
+					</div>
+					<div class='preference'>
+						$if item['reference'][0]!=None:
+							$item['referenceName']
+							$if item['reference'][0]=='entity':
+								<a class='entityProperty' href="../detail?entity=$item['reference'][1]">
+									$item['reference'][2]
+								</a>
+							$else:
+								$item['reference'][1]
+					</div>
+				</div>
+			</div>
+	</body>
+	</html>	

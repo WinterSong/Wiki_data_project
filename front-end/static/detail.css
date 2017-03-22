@@ -1,0 +1,57 @@
+.name
+{
+	font-size:40px;
+	border-bottom: 3px solid grey;
+}
+.description
+{
+	font-style:italic;
+	margin-left:100px;
+	margin-bottom:30px;
+}
+.property
+{
+	margin-left:100px;
+	margin-right:200px;
+	border:1px solid grey;
+	margin-bottom:20px;
+	
+}
+.ptitle
+{
+	position:absolute;
+	/*background-color:rgb(102,169,188);*/
+	background-color: #0097a7 cyan darken-2;
+	width: 400px;
+	font-size:20px;
+	font-weight:700;
+}
+.pcontent
+{
+	height: 100%;
+	margin-left:400px;
+}
+.preference
+{
+	font-size:15px;
+	font-style: italic;
+	padding-left:30px;
+	border-bottom:0.2px solid grey;
+}
+.pqualifier
+{
+	font-size:15px;
+	font-style:italic;
+	padding-left:15px;
+}
+.pproperty
+{
+	font-size:20px;
+	font-weight:700;
+	padding-left:10px;
+}
+ali
+{
+	font-weight:300;
+	padding-left:5px;
+}

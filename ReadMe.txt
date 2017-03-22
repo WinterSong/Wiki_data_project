@@ -1,0 +1,2 @@
+A project aimed to index and query wiki data. The initial data was extracted by the py files under "MySQL_initial&optimization" folder from the official json file of wikidata.
+Its interface is under html and the backend searching and queries is under python and MySQL.

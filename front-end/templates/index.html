@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>weki</title>
+	<script type="text/javascript" src="script.js"></script>
+	<link rel="stylesheet" type="text/css" href="../static/style.css">
+	<link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <!--Import materialize.css-->
+  	<link type="text/css" rel="stylesheet" href="../static/css/materialize.min.css"  media="screen,projection"/>
+
+  <!--Let browser know website is optimized for mobile-->
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+<body>
+	<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script type="text/javascript" src="../static/js/materialize.min.js"></script>
+    <script type="text/javascript">
+     	jQuery(document).ready(function() {
+		    jQuery('select').material_select();
+		});
+    </script>
+	<div id ="logo" align="center">
+		<img src="../static/logo.png">
+	</div>
+	<div id="searchHead">
+	<form id="form" method='POST'>
+	<div class="input-field col s12" id='select'>
+    <select name="select">
+      <option value="" disabled selected>Choose your option</option>
+      <option value="entity">entity</option>
+      <option value="qa">Q&A</option>
+    </select>
+	<label>Query Select</label>
+  	</div><!-- 
+  	<div id="text1"> -->
+	<input id="textInput" class="input-field inline" name="input"  type="text"/>
+<!-- 	</div> -->
+	<div id = "buttonBox">
+	<input id="button" class="btn waves-effect waves-light" value="search" type="submit"/>
+	</div>
+	</form>
+	</div>
+</body>
+</html>

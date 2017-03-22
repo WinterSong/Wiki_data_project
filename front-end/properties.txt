@@ -1,0 +1,2793 @@
+highway system?P16
+place of birth?P19
+father?P22
+instance of?P31
+head of state?P35
+capital?P36
+official language?P37
+position held?P39
+noble family?P53
+member of sports tea?P54
+connecting line?P81
+commissioned by?P88
+main regulatory text?P92
+member of political ?P102
+taxon rank?P105
+employer?P108
+signature?P109
+measured physical qu?P111
+league?P118
+place of burial?P119
+item operated?P121
+located in the admin?P131
+imported from?P143
+architectural style?P149
+follows?P155
+flag?P163
+award received?P166
+chief executive offi?P169
+parent taxon?P171
+performer?P175
+developer?P178
+endemic to?P183
+location of discover?P189
+main building contra?P193
+collection?P195
+lake inflows?P200
+located next to body?P206
+executive body?P208
+ISO 639-3 code?P220
+taxon name?P225
+GND ID?P227
+ICAO airline designa?P230
+CAS registry number?P231
+element symbol?P246
+stated in?P248
+official residence?P263
+ISO 3166-1 alpha-3 c?P298
+category's main topi?P301
+IETF language tag?P305
+software version?P348
+RKDimages?P350
+Entrez Gene ID?P351
+subsidiary?P355
+DOI?P356
+(OBSOLETE) title (us?P357
+original language of?P364
+Sandbox-CommonsMedia?P368
+presenter?P371
+space launch vehicle?P375
+CBS municipality cod?P382
+language of work or ?P407
+NLA (Australia) ID?P409
+stock exchange?P414
+located in time zone?P421
+botanist author abbr?P428
+MusicBrainz artist I?P434
+MusicBrainz release ?P436
+pronunciation audio?P443
+original network?P449
+IMO ship number?P458
+opposite of?P461
+legislated by?P467
+orbit diagram?P491
+CBDB ID?P497
+ISO 4217 code?P498
+exclave of?P500
+cause of death?P509
+academic degree?P512
+interaction?P517
+target?P533
+doubles record?P555
+DiseasesDB?P557
+direction?P560
+NATO reporting name?P561
+singles record?P564
+crystal habit?P565
+time of discovery?P575
+point in time?P585
+coolant?P588
+commander of?P598
+MedlinePlus ID?P604
+religious order?P611
+yard number?P617
+E number?P628
+ISTAT ID?P635
+route of administrat?P636
+genomic end?P645
+translator?P655
+EC classification?P660
+ChemSpider ID?P661
+PubChem ID (CID)?P662
+organizer?P664
+KEGG ID?P665
+located on street?P669
+eMedicine?P673
+Google Books ID?P675
+ZVG number?P679
+molecular function?P680
+cleavage?P693
+replaced synonym (fo?P694
+Ensembl Transcript I?P704
+participant?P710
+Nickel-Strunz 9th ed?P712
+JPL Small-Body Datab?P716
+UIC station code?P722
+Europeana ID?P727
+service entry?P729
+given name?P735
+ammunition?P739
+location of formatio?P740
+pseudonym?P742
+Low German Bibliogra?P745
+parent organization?P749
+distributor?P750
+OKTMO ID?P764
+significant drug int?P769
+Swedish civil parish?P777
+Church of Sweden par?P778
+Church of Sweden Pas?P779
+mushroom cap shape?P784
+mushroom ecological ?P788
+as?P794
+authority?P797
+separated from?P807
+academic minor?P811
+decay mode?P817
+dedicated to?P825
+has cause?P828
+Encyclopedia of Life?P830
+CPU?P880
+FIPS 6-4 (US countie?P882
+LIR?P886
+RfC ID?P892
+Social Science Resea?P893
+HDS ID?P902
+notation?P913
+GSRR rating?P916
+SOC Code (2010)?P919
+FishBase species ID?P938
+inspired by?P941
+programmer?P943
+Code of nomenclature?P944
+Wikivoyage banner?P948
+BNE ID?P950
+ISCO occupation code?P952
+full text available ?P953
+IBNR ID?P954
+ISBN-10?P957
+Tropicos taxon name ?P960
+MycoBank taxon name ?P962
+streaming media URL?P963
+Austrian municipalit?P964
+guest of honor?P967
+BAG-code for Dutch l?P981
+NFPA Reactivity?P995
+dmoz ID?P998
+engine configuration?P1002
+MusicBrainz place ID?P1004
+National Thesaurus f?P1006
+excluding?P1011
+criterion used?P1013
+asteroid taxonomy?P1016
+CNO-11 occupation co?P1022
+SUDOC editions?P1025
+doctoral thesis?P1026
+conferred by?P1027
+crew member?P1029
+film editor?P1040
+discovery method?P1046
+Catholic Hierarchy p?P1047
+NCL ID?P1048
+chromosome?P1057
+student of?P1066
+writable file format?P1073
+valvetrain configura?P1078
+from fictional unive?P1080
+Human Development In?P1081
+population?P1082
+EUL editions?P1084
+gross tonnage?P1093
+g-factor?P1097
+number of platform t?P1103
+number of pages?P1104
+electronegativity?P1108
+attendance?P1110
+votes received?P1111
+Pokédex number?P1112
+spin quantum number?P1122
+isospin z-component?P1127
+DGO4 identifier?P1133
+floors below ground?P1139
+political ideology?P1142
+IAAF ID?P1146
+ISO 4 abbreviation?P1160
+Z39.5 abbreviation?P1161
+transmitted signal t?P1170
+Geokod?P1172
+Chinese Library Clas?P1189
+prevalence?P1193
+received signal type?P1194
+manner of death?P1196
+space tug?P1201
+Wikimedia portal's m?P1204
+fuel system?P1211
+NARA person ID?P1222
+ISFDB author ID?P1233
+Parsons code?P1236
+Theatricalia play ID?P1242
+OmegaWiki Defined Me?P1245
+compression ratio?P1247
+Slovenska biografija?P1254
+Helveticarchives ID?P1255
+coordinates of the p?P1259
+NNDB people ID?P1263
+represents organisat?P1268
+facet of?P1269
+Norwegian Register j?P1270
+CANTIC-ID?P1273
+Dictionnaire du Jura?P1276
+Munzinger Pop ID?P1286
+KLfG Critical Dictio?P1289
+Association Authors ?P1291
+Royal Aero Club Avia?P1293
+IRS Employer Identif?P1297
+central bank?P1304
+Skyscraper Center ID?P1305
+EGAXA ID?P1309
+has facet polytope?P1312
+Terminologia Anatomi?P1323
+latest date?P1326
+coordinate of southe?P1333
+winner?P1346
+number of matches pl?P1350
+number of points/goa?P1351
+ranking?P1352
+losses?P1356
+points/goal scored b?P1363
+binding of software ?P1372
+NSK ID?P1375
+MTR station code?P1377
+coincident with?P1382
+Japanese High School?P1386
+Glottolog code?P1394
+State Catalogue of G?P1397
+convicted of?P1399
+FCC Facility ID?P1400
+Oxford Biography Ind?P1415
+shape?P1419
+taxon synonym?P1420
+Sandrart.net person ?P1422
+topic's main templat?P1424
+describes the fictio?P1434
+heritage status?P1435
+FIDE ID?P1440
+present in work?P1441
+fictional universe d?P1445
+nickname?P1449
+list of monuments?P1456
+Cadw Building ID?P1459
+category for people ?P1465
+Nupill Literatura Di?P1474
+title?P1476
+has immediate cause?P1478
+family name identica?P1533
+immediate cause of?P1536
+contributing factor ?P1537
+Cycling Quotient ID ?P1541
+monogram?P1543
+series ordinal?P1545
+demonym?P1549
+has quality?P1552
+Yandex.Music artist ?P1553
+zbMATH author ID?P1556
+tempo marking?P1558
+given name version f?P1560
+AllMovie movie ID?P1562
+GeoNames ID?P1566
+domain?P1568
+Beilstein Registry N?P1579
+official blog?P1581
+Brazilian municipali?P1585
+judge?P1594
+consecrator?P1598
+code Inventari del P?P1600
+natural reservoir of?P1606
+Ethnologue.com code?P1627
+equivalent property?P1628
+Hermann-Mauguin nota?P1632
+religious name?P1635
+port?P1641
+mandatory qualifier?P1646
+wing configuration?P1654
+this taxon is source?P1672
+number confirmed?P1674
+Pokémon browser num?P1685
+ICD-9-CM?P1692
+Terminologia Embryol?P1693
+NLP ID?P1695
+DAAO ID?P1707
+British Museum perso?P1711
+Metacritic ID?P1712
+RKD/ESD (Slovenia) I?P1715
+brand?P1716
+pinyin transliterati?P1721
+Florentine musea Inv?P1726
+AllMusic song ID?P1730
+Naturbase ID?P1732
+oath of office date?P1734
+Merck Index monograp?P1738
+Bradley and Fletcher?P1743
+ZooBank nomenclatura?P1746
+Flora of China ID?P1747
+NCI Thesaurus ID?P1748
+name day?P1750
+denkXweb identifier?P1769
+Romania LMI code?P1770
+follower of?P1775
+school of?P1780
+courtesy name?P1782
+chief operating offi?P1789
+category of people b?P1791
+category of associat?P1792
+format as a regular ?P1793
+bureau du patrimoine?P1794
+commemorative plaque?P1801
+EMLO person ID?P1802
+Masaryk University p?P1803
+name in kana?P1814
+IPI number?P1828
+electorate?P1831
+GrassBase ID?P1832
+Gaoloumi ID?P1837
+US Federal Election ?P1839
+Swedish district cod?P1841
+Global Anabaptist Me?P1842
+taxon common name?P1843
+SSR WrittenForm ID?P1849
+ballots cast?P1868
+Hall of Valor ID?P1869
+maximum number of pl?P1873
+vessel?P1876
+after a work by?P1877
+Web Gallery of Art I?P1882
+cathedral?P1885
+highest note?P1897
+Librivox author ID?P1899
+FundRef registry nam?P1905
+Australian Dictionar?P1907
+side effect?P1909
+deletion association?P1912
+posttranslational mo?P1917
+RDF URL template?P1921
+first line?P1922
+MobyGames ID?P1933
+DBCS ID?P1935
+UN/LOCODE?P1937
+Project Gutenberg au?P1938
+conifers.org ID?P1940
+Mapillary ID?P1947
+Wikisource index pag?P1957
+Comité des travaux ?P1961
+patron?P1962
+MovieMeter director ?P1969
+USDA NDB number?P1978
+PolSys ID?P1980
+Anime News Network c?P1983
+MCN code?P1987
+Plazi ID?P1992
+UCI code?P1998
+Catalogus Professoru?P2005
+ZooBank publication ?P2007
+IPNI publication ID?P2008
+AllMovie artist ID?P2019
+Dictionary of Ulster?P2029
+Category for picture?P2033
+GitHub username?P2037
+elevation above sea ?P2044
+height?P2048
+speed?P2052
+watershed area?P2053
+HMDB ID?P2057
+mass?P2067
+speed of sound?P2075
+BLDAM object ID?P2081
+Nikkaji?P2085
+CDD Public ID?P2086
+CrunchBase organisat?P2088
+author name string?P2093
+competition class?P2094
+BC Geographical Name?P2099
+decomposition point?P2107
+Kunstindeks Danmark ?P2108
+NDF-RT ID?P2115
+combustion enthalpy?P2117
+vapor pressure?P2119
+Revised Hepburn roma?P2125
+nominal GDP?P2131
+total debt?P2133
+total reserves?P2134
+total exports?P2135
+antiparticle?P2152
+binding energy?P2154
+Pseudo crystal habit?P2156
+SIGIC group ID?P2165
+PublicWhip ID?P2169
+Parliamentary record?P2172
+BBC News Democracy L?P2173
+ACM Classification C?P2179
+Kansallisbiografia I?P2180
+Finnish Ministers da?P2182
+BiblioNet publisher ?P2189
+NILF author id?P2191
+Soccerbase player ID?P2193
+production rate?P2197
+electric charge?P2200
+Spotify album ID?P2205
+average shot length?P2208
+SourceForge project?P2209
+longitude of ascendi?P2213
+flux?P2221
+metallicity?P2227
+thermal design power?P2229
+reason for deprecati?P2241
+argument of periapsi?P2248
+DfE URN?P2253
+maximum operating al?P2254
+Debrett's People of ?P2255
+frequency of event?P2257
+mobile country code?P2258
+Politifact Personali?P2267
+Magdeburger Biograph?P2277
+Member of the Hellen?P2278
+ambitus?P2279
+uses?P2283
+price?P2284
+periapsis date?P2285
+arterial supply?P2286
+lymphatic drainage?P2288
+balance of trade?P2294
+minimal lethal dose?P2300
+group by?P2304
+namespace?P2307
+relation?P2309
+max quantity?P2312
+min quantity?P2313
+quantity buried?P2324
+GNS Unique Feature I?P2326
+ProCyclingStats ID (?P2327
+Cycling Archives ID ?P2330
+Elonet movie ID?P2346
+UNESCO endangered la?P2355
+Roman nomen gentilic?P2359
+online service?P2361
+production code?P2364
+deprecated in versio?P2379
+CTHS person ID?P2383
+diameter?P2386
+teaching method?P2392
+MGI gene symbol?P2394
+image of function?P2396
+JMDb film ID?P2400
+total assets?P2403
+maximum peak exposur?P2406
+set in period?P2408
+WikiPathways ID?P2410
+Fashion Model Direct?P2412
+substrate of?P2414
+personal best?P2415
+service ribbon image?P2425
+GRID ID?P2427
+number of seasons?P2437
+transliteration?P2440
+stage reached?P2443
+Transfermarkt footba?P2446
+nominee?P2453
+KNAW past member ID?P2454
+IBU biathlete ID?P2459
+member of the deme?P2462
+Theatricalia theatre?P2468
+Models.com person ID?P2471
+ACMA Radiocommunicat?P2472
+Railways Archive eve?P2478
+Elite Prospects play?P2481
+SABR ID?P2482
+NCES District ID?P2483
+OM institution ID?P2493
+league level above?P2499
+INSEE canton code?P2506
+MSK Gent work PID?P2511
+spin-off?P2512
+Jamendo album ID?P2513
+lowest atmospheric p?P2532
+Nationalmuseum Swede?P2538
+perimeter?P2547
+fee?P2555
+Wikidata usage instr?P2559
+name?P2561
+superhuman feature o?P2563
+Köppen climate clas?P2564
+amended by?P2567
+Saros cycle of eclip?P2570
+Twitter hashtag?P2572
+National-Football-Te?P2574
+measures?P2575
+admissible rule in?P2577
+studies?P2578
+J. Paul Getty Museum?P2582
+distance from Earth?P2583
+INSEE region code?P2585
+has phoneme?P2587
+Québec cultural her?P2592
+Gram staining?P2597
+block size?P2599
+Hockeydb.com player ?P2602
+PlayStation ID?P2606
+TED speaker ID?P2611
+TED topic ID?P2612
+TED talk ID?P2613
+Hungarian company ID?P2619
+Site of Special Scie?P2621
+MetroLyrics ID?P2624
+BBFC rating?P2629
+Turner Classic Movie?P2631
+Davis Cup player ID?P2641
+Carnegie Classificat?P2643
+source of material?P2647
+Cycling Quotient ID ?P2648
+EU transparency regi?P2657
+topographic isolatio?P2659
+Basketball-Reference?P2685
+New York Times Seman?P2692
+URL?P2699
+protocol?P2700
+dataset distribution?P2702
+Cycling Quotient ID ?P2709
+sectional view?P2713
+Deezer album ID?P2723
+Deezer track ID?P2724
+GOG application ID?P2725
+CageMatch worker ID?P2728
+Projeto Excelências?P2731
+PRONOM file format i?P2748
+New Zealand Organism?P2752
+production year?P2754
+BNE journal ID?P2768
+FIS alpine skier ID?P2772
+FIS cross-country sk?P2773
+FIS freestyle skier ?P2774
+FIS ski jumper ID?P2775
+FIS snowboarder ID?P2777
+Danish listed buildi?P2783
+Mercalli intensity s?P2784
+connects with?P2789
+clearance?P2793
+directions?P2795
+3DMet ID?P2796
+World Sailing member?P2804
+Australasian Pollen ?P2809
+LPGA Tour ID?P2810
+HowLongToBeat ID?P2816
+by-product?P2821
+by-product of?P2822
+Belgian Football ID?P2823
+Gazetteer of Planeta?P2824
+Megogo ID?P2826
+corporate officer?P2828
+ARKive ID?P2833
+gait?P2839
+Benezit ID?P2843
+RAN ID?P2845
+Google+ username?P2847
+Wi-Fi?P2848
+VAT-rate?P2855
+Catalogus Professoru?P2862
+time in space?P2873
+property usage track?P2875
+promoted?P2881
+Shakeosphere person ?P2886
+reserve number (Cana?P2887
+exact match?P2888
+publication interval?P2896
+Eldoblaje Movie ID?P2897
+time gap?P2911
+COAM ID?P2917
+domain of saint or d?P2925
+memory capacity?P2928
+lighthouse range?P2929
+parliamentary term?P2937
+British Book Trade I?P2945
+BacDive ID?P2946
+Nomisma ID?P2950
+bateau d'intérêt p?P2952
+BVPH ID?P2961
+Kinopolis film ID?P2970
+GCatholic church ID?P2971
+SNAP ID?P2972
+habitat?P2974
+LBT person ID?P2977
+UNDP country code?P2983
+marriageable age?P3000
+retirement age?P3001
+valid in place?P3005
+Cadw Monument ID?P3007
+backup or reserve te?P3015
+French national rese?P3016
+located in protected?P3018
+closed on?P3026
+UK National Archives?P3029
+package management s?P3033
+precipitation height?P3036
+IWM memorial ID?P3038
+wheelbase?P3039
+SoundCloud ID?P3040
+Kindred Britain ID?P3051
+K League player ID?P3053
+NAQ elected person I?P3055
+Charity Commission n?P3057
+GS1 country code?P3067
+standard molar entro?P3071
+destroyed?P3082
+SIMBAD ID?P3083
+qualifies for event?P3085
+flight number?P3090
+film crew member?P3092
+recovered by?P3093
+Flora of Australia I?P3100
+FloraBase ID?P3101
+Peakbagger ID?P3109
+ISzDb dub ID?P3116
+OpenDomesday settlem?P3118
+Stanford Encyclopedi?P3123
+Polish scientist ID?P3124
+ALCUIN ID?P3126
+cine.gr film ID?P3129
+Redalyc journal ID?P3131
+United States Report?P3147
+birthday?P3150
+iNaturalist taxon ID?P3151
+Crossref funder ID?P3153
+Runeberg book ID?P3155
+UGentMemorialis ID?P3159
+Rock Hall of Fame ID?P3162
+Horsetelex ID?P3165
+Sporthorse data ID?P3168
+offers view on?P3173
+art director?P3174
+uses property?P3176
+Patrimonio Web JCyL ?P3177
+territory overlaps?P3179
+Visual Novel Databas?P3180
+Marburger Professore?P3187
+Last.fm music ID?P3192
+USGS earthquake id?P3196
+charity number (Isle?P3199
+Medical Dictionary f?P3201
+Ciné-Ressources per?P3204
+patient of?P3205
+Heritage Lighthouse ?P3211
+SIRET number?P3215
+NAICS code?P3224
+Corporate Number (Ja?P3225
+HAS member ID?P3226
+KU Leuven person ID?P3237
+OKVED 2 code of the ?P3246
+OKP Code?P3247
+OKP ID of the good o?P3248
+head of government?P6
+brother?P7
+country?P17
+currency?P38
+child?P40
+stepfather?P43
+author?P50
+site of astronomical?P65
+composer?P86
+sexual orientation?P91
+editor?P98
+occupation?P106
+airline alliance?P114
+physically interacts?P129
+religion?P140
+followed by?P156
+killed by?P157
+depicts?P180
+taxon range map imag?P181
+material used?P186
+legislative body?P194
+minor planet group?P196
+adjacent station?P197
+lake outflow?P201
+ISBN-13?P212
+ISO 639-1 code?P218
+IATA airline designa?P229
+InChIKey?P235
+ICAO airport code?P239
+FAA airport code?P240
+military branch?P241
+OCLC control number?P243
+LCAuth ID?P244
+COSPAR ID?P247
+SUDOC authorities?P269
+production company?P272
+GOST 7.75-97 code?P278
+postal code?P281
+writing system?P282
+head coach?P286
+ISO 3166-1 alpha-2 c?P297
+page(s)?P304
+operating system?P306
+Joconde ID?P347
+discography?P358
+astronomic symbol im?P367
+INSEE municipality c?P374
+edition number?P393
+voice type?P412
+radio format?P415
+patron saint?P417
+aircraft registratio?P426
+taxonomic type?P427
+issue?P433
+astronaut mission?P450
+partner?P451
+character role?P453
+Structurae ID (struc?P454
+Emporis building ID?P455
+foundational text?P457
+sRGB color hex tripl?P465
+occupant?P466
+Eight Banner registe?P470
+IMA Number, broad se?P484
+archives at?P485
+country of origin?P495
+enclave within?P501
+home port?P504
+general manager?P505
+BNCF Thesaurus?P508
+phase of matter?P515
+applies to part?P518
+armament?P520
+scheduled service de?P521
+type of orbit?P522
+Swedish municipality?P525
+has part?P527
+catalog code?P528
+diplomatic mission s?P531
+Find a Grave grave p?P535
+office contested?P541
+torch lit by?P545
+Mathematics Genealog?P549
+handedness?P552
+website account on?P553
+unit symbol?P558
+ICD-O?P563
+date of birth?P569
+date of taxon name p?P574
+start time?P580
+end time?P582
+IPNI author ID?P586
+MMSI?P587
+GNIS ID?P590
+ChEMBL ID?P592
+HomoloGene ID?P593
+WTA ID?P597
+first flight?P606
+exhibition history?P608
+terminus location?P609
+OS grid reference?P613
+guidance system?P624
+structural engineer?P631
+sport?P641
+of?P642
+drafted by?P647
+NRHP reference numbe?P649
+RKDartists ID?P650
+UNII?P652
+RefSeq?P656
+tracklist?P658
+DSM-IV?P663
+GeneReviews ID?P668
+street number?P670
+characters?P674
+lyrics by?P676
+ÚSOP code?P677
+ChEBI ID?P683
+Gene Ontology ID?P686
+encodes?P688
+afflicts?P689
+space group?P690
+PubMed ID?P698
+Disease Ontology ID?P699
+satellite bus?P707
+Dana 8th edition?P714
+Canmore ID?P718
+asteroid spectral ty?P720
+DBNL author ID?P723
+candidate?P726
+Litholex ID?P731
+BGS Lexicon ID?P732
+family name?P734
+influenced by?P737
+playing hand?P741
+removed feature?P756
+World Heritage Site ?P757
+Lake ID (Sweden)?P761
+Czech cultural herit?P762
+PEI Register of Hist?P763
+contributor(s) to th?P767
+electoral district?P768
+Swedish minor urban ?P776
+Sikart?P781
+hymenium attachment?P785
+spore print color?P787
+edibility?P789
+significant event?P793
+distance along?P795
+geo datum?P796
+military designation?P798
+GNIS Antarctica ID?P804
+subject of?P805
+arXiv ID?P818
+arXiv classification?P820
+CGNDB Unique ID?P821
+Meteoritical Bulleti?P824
+tonality?P826
+public holiday?P832
+interchange station?P833
+train depot?P834
+author citation (zoo?P835
+GSS code (2011)?P836
+SIRUTA code?P843
+UBIGEO code?P844
+Global Biodiversity ?P846
+Japanese military ai?P849
+World Register of Ma?P850
+CERO rating?P853
+ACM Digital Library ?P864
+BMLO?P865
+ROME Occupation Code?P867
+foods traditionally ?P868
+State Water Register?P884
+FIPS 10-4 (countries?P901
+PORT film ID?P905
+SELIBR?P906
+allgame ID?P907
+PEGI rating?P908
+South African munici?P911
+has facility?P912
+USK rating?P914
+LEM ID?P920
+medical examinations?P923
+anatomical location?P927
+type of electrificat?P930
+place served by airp?P931
+heritagefoundation.c?P933
+GHS precautionary st?P940
+allegiance?P945
+RSL ID (person)?P947
+NSZL ID?P951
+MusicBrainz label ID?P966
+neurological functio?P970
+catalog?P972
+MusicBrainz area ID?P982
+IOC country code?P984
+Philippine Standard ?P988
+ARICNS?P999
+NLR (Romania) ID?P1003
+Lattes Platform numb?P1007
+Iran statistics ID?P1010
+BIBSYS ID?P1015
+SBC-2010 occupation ?P1023
+light characteristic?P1030
+manager/director?P1037
+type of kinship?P1039
+IDEO Job ID?P1043
+SWB editions?P1044
+worshipped by?P1049
+ResearcherID?P1053
+NLM Unique ID?P1055
+pathogen transmissio?P1060
+track gauge?P1064
+instruction set?P1068
+ICTV virus ID?P1076
+KOATUU identifier?P1077
+maximum capacity?P1083
+LibraryThing work ID?P1085
+Mohs' hardness?P1088
+redshift?P1090
+orbital eccentricity?P1096
+number of masts?P1099
+flattening?P1102
+ELSTAT geographical ?P1116
+number of deaths?P1120
+oxidation state?P1121
+parity?P1123
+TEU?P1124
+number of participan?P1132
+solved by?P1136
+LCOC LCCN (bibliogra?P1144
+neutron number?P1148
+Scopus EID?P1154
+Scopus Source ID?P1156
+US Congress Bio ID?P1157
+location of landing?P1158
+Bluebook abbreviatio?P1162
+media type?P1163
+municipality code (D?P1168
+visitors per year?P1174
+handle?P1184
+Dharma Drum Buddhist?P1187
+Dharma Drum Buddhist?P1188
+Universal Decimal Cl?P1190
+first performance?P1191
+file extension?P1195
+mode of inheritance?P1199
+bodies of water basi?P1200
+ISMN?P1208
+CN?P1209
+compressor type?P1221
+NARA organization ID?P1223
+National Archives Id?P1225
+Box Office Mojo film?P1237
+Swedish Football Ass?P1238
+Danish Bibliometric ?P1240
+ABS ASCL code?P1251
+AUSTLANG code?P1252
+BCU Ecrivainsvd?P1253
+Iconclass notation?P1256
+Rotten Tomatoes ID?P1258
+Rundata?P1261
+RAÄ-nummer?P1262
+AlloCiné person ID?P1266
+AlloCiné series ID?P1267
+Norway Import Servic?P1275
+Jufo ID?P1277
+inflation rate?P1279
+OpenStreetMap tag or?P1282
+KDG Komponisten der ?P1287
+Gran Enciclopèdia C?P1296
+number of elevators?P1301
+officeholder?P1308
+statement disputed b?P1310
+number of spans?P1314
+SMDB ID?P1316
+earliest date?P1319
+place of origin (Swi?P1321
+professional or spor?P1327
+phone number?P1329
+PACE member ID?P1331
+coordinate of easter?P1334
+coordinate of wester?P1335
+territory claimed by?P1336
+eye color?P1340
+described by source?P1343
+participant of?P1344
+AlgaeBase URL?P1348
+original spelling?P1353
+shown with features?P1354
+ITTF ID?P1364
+replaces?P1365
+Art UK artist ID?P1367
+uglybridges.com ID?P1380
+bridgehunter.com ID?P1381
+product certificatio?P1389
+match time of score ?P1390
+Index Fungorum ID?P1391
+original combination?P1403
+script directionalit?P1406
+MusicBrainz series I?P1407
+licensed to broadcas?P1408
+Cycling Archives ID ?P1409
+languages spoken, wr?P1412
+GRIN URL?P1421
+ecoregion (WWF)?P1425
+start point?P1427
+Lost Art-ID?P1428
+has pet?P1429
+executive producer?P1431
+published in?P1433
+number of missing?P1446
+official name?P1448
+category for people ?P1464
+Commons Creator page?P1472
+used by?P1535
+Federal Register Doc?P1544
+motto?P1546
+depends on software?P1547
+number of survivors?P1561
+Enciclopedia de la L?P1565
+codomain?P1571
+RISS catalog?P1575
+Gregory-Aland-Number?P1577
+Gmelin number?P1578
+University of Barcel?P1580
+MalaCards ID?P1583
+Catalan object of cu?P1586
+Slovene Cultural Her?P1587
+prosecutor?P1592
+penalty?P1596
+Esperantist ID?P1601
+has natural reservoi?P1605
+Commons Institution ?P1612
+CLARA-ID?P1615
+plaintiff?P1620
+detail map?P1621
+has melody?P1625
+working title?P1638
+EgliseInfo ID?P1644
+YouTube video ID?P1651
+referee?P1652
+unveiled by?P1656
+Alexa rank?P1661
+Chess Games ID?P1665
+route number?P1671
+number probable?P1675
+number suspected?P1676
+index case of?P1677
+Art UK artwork ID?P1679
+inscription?P1684
+for work?P1686
+AniDB ID?P1688
+Terminologia Histolo?P1694
+inverse of?P1696
+SkyscraperPage build?P1699
+SIPA ID?P1700
+is pollinator of?P1704
+together with?P1706
+LfDS object ID?P1708
+equivalent class?P1709
+Sächsische Biografi?P1710
+AllMusic album ID?P1729
+Fach?P1731
+Information Center f?P1736
+Parlement & Politiek?P1749
+Art UK collection ID?P1751
+scale?P1752
+list related to cate?P1753
+Aviation Safety Netw?P1755
+Hornbostel-Sachs cla?P1762
+National Pipe Organ ?P1763
+Integrated Postsecon?P1771
+workshop of?P1774
+manner of?P1777
+forgery after?P1778
+possible creator?P1779
+posthumous name?P1786
+art-name?P1787
+Smithsonian American?P1795
+Wikimedia database n?P1800
+DNF film ID?P1804
+ABoK number?P1806
+list of episodes?P1811
+National Portrait Ga?P1816
+addressee?P1817
+genealogics.org pers?P1819
+Open Food Facts food?P1820
+Open Food Facts food?P1821
+Baseball-Reference.c?P1825
+PSS-archi ID?P1838
+distribution map?P1846
+INPN Code?P1848
+SSR Name ID?P1850
+eligible voters?P1867
+Name Assigning Autho?P1870
+CERL ID?P1871
+represented by?P1875
+Vox-ATypI classifica?P1878
+measured by?P1880
+list of characters?P1881
+vice-county?P1887
+OpenPlaques plaque I?P1893
+BALaT person/organis?P1901
+Spotify artist ID?P1902
+volcanic explosivity?P1903
+vaccine for?P1924
+ClinVar accession?P1929
+stated as?P1932
+Animator.ru film ID?P1934
+street key?P1945
+National Library of ?P1946
+second surname in Sp?P1950
+Encyclopaedia Metall?P1952
+Discogs artist ID?P1953
+Discogs master ID?P1954
+Discogs label ID?P1955
+Trismegistos Geo ID?P1958
+Biblioteca Nacional ?P1966
+Foursquare venue ID?P1968
+MovieMeter Movie ID?P1970
+number of children?P1971
+RSL editions?P1973
+INEGI locality ID?P1976
+lesarchivesduspectac?P1977
+FSK film rating?P1981
+Anime News Network a?P1985
+TeX string?P1993
+Twitter username?P2002
+Instagram username?P2003
+NALT ID?P2004
+Exif model?P2009
+Exif make?P2010
+Cooper-Hewitt Person?P2011
+Hansard (1803–2005?P2015
+Catalogus Professoru?P2016
+Find A Grave cemeter?P2025
+work period (start)?P2031
+CITES Species+ ID?P2040
+length?P2043
+orbital inclination?P2045
+M sin i?P2051
+electrical conductiv?P2055
+depositor?P2058
+LIPID MAPS ID?P2063
+KNApSAcK ID?P2064
+thermal conductivity?P2068
+temperature?P2076
+fabrication method?P2079
+AcademiaNet?P2080
+ZINC ID?P2084
+CrunchBase person ID?P2087
+FISA ID?P2091
+Bildindex der Kunst ?P2092
+co-driver?P2095
+term length of offic?P2097
+size of team at fini?P2105
+sublimation temperat?P2113
+half-life?P2114
+YerelNet village ID?P2123
+membership?P2124
+total imports?P2136
+total liabilities?P2138
+box office?P2142
+genome size?P2143
+explosive energy equ?P2145
+orbital period?P2146
+clock speed?P2149
+FSB speed?P2150
+solid solution serie?P2155
+lithography?P2157
+solves?P2159
+mass excess?P2160
+SIGIC institution ID?P2166
+Hansard (2006–Marc?P2170
+solvent?P2178
+Finnish MP ID?P2181
+ISO 9:1995?P2183
+history of topic?P2184
+DLI ID?P2185
+endangeredlanguages.?P2192
+PSS-Archi architect ?P2194
+Soccerbase manager I?P2195
+autoignition tempera?P2199
+electric dipole mome?P2201
+lower flammable limi?P2202
+minimum explosive co?P2204
+relative to?P2210
+position angle?P2211
+cruise speed?P2217
+net worth estimate?P2218
+real gross domestic ?P2219
+household wealth?P2220
+spectral line?P2224
+maximum thrust?P2228
+semi-major axis?P2233
+volume as quantity?P2234
+official symbol?P2238
+life expectancy?P2250
+NGA artist id?P2252
+Fashion Model Direct?P2266
+Wikidata property ex?P2271
+Groeningemuseum work?P2282
+venous drainage?P2289
+Danish parish code?P2290
+charted in?P2291
+genetic association?P2293
+net profit?P2295
+money supply?P2296
+NSDAP membership num?P2298
+property constraint?P2302
+qualifier of propert?P2305
+max date?P2311
+Swedish Olympic Comm?P2323
+Dictionary of Art Hi?P2332
+Norwegian organizati?P2333
+SFDb soundtrack ID?P2336
+SFDb group ID?P2337
+BoardGameGeek ID?P2339
+CESAR person ID?P2340
+Stuttgart Database o?P2349
+statistical unit?P2353
+has list?P2354
+Roman praenomen?P2358
+Australian Stratigra?P2367
+Sandbox-Property?P2368
+natural abundance?P2374
+has superpartner?P2375
+MLSSoccer.com ID?P2398
+British Council arti?P2399
+ceiling exposure lim?P2405
+Fashion Model Direct?P2413
+Structurae person ID?P2418
+number of awards?P2422
+PORT person ID?P2435
+language?P2439
+literal translation?P2441
+homoglyph?P2444
+Turkish Football Fed?P2448
+Turkish Football Fed?P2449
+GeoNames feature cod?P2452
+Australian National ?P2457
+Persons of Ancient A?P2460
+ComLaw ID?P2461
+Allcinema film ID?P2465
+Asset of Local Relev?P2473
+CDLI ID?P2474
+HNI person/instituti?P2476
+SPDX ID?P2479
+IHO Hydrographic Dic?P2480
+page at Belarus Glob?P2488
+MTMT author ID?P2492
+Movie Walker ID?P2509
+costume designer?P2515
+category for recipie?P2517
+female form of label?P2521
+ČSFD film ID?P2529
+WomenWriters ID?P2533
+Sandbox-External ide?P2536
+Nationalmuseum Swede?P2539
+Aarne–Thompson–U?P2540
+bowling style?P2545
+used metre?P2551
+quantitative metrica?P2552
+bore?P2556
+uncertainty correspo?P2571
+UCSC Genome Browser ?P2576
+BPS language code?P2590
+Latvian Olympic Comm?P2593
+Eurohockey.com playe?P2601
+BookBrainz creator I?P2607
+SHOWA ID?P2618
+MEK ID?P2623
+DNF person ID?P2626
+German tax authority?P2628
+geography of topic?P2633
+number of parts of a?P2635
+TV.com ID?P2638
+Swimrankings.net swi?P2640
+mirTarBase ID?P2646
+topographic prominen?P2660
+alcohol by volume?P2665
+corresponding templa?P2667
+stability of propert?P2668
+SOATO ID?P2672
+next crossing upstre?P2673
+next crossing downst?P2674
+rating certificate I?P2676
+is verso of?P2682
+Kijkwijzer rating?P2684
+Box Office Mojo pers?P2688
+New York Times Seman?P2693
+ISU figure skater ID?P2694
+CricketArchive playe?P2698
+minimal lethal conce?P2710
+median lethal concen?P2712
+Hungarian-style tran?P2719
+United World Wrestli?P2727
+Badminton World Fede?P2729
+Persée author ID?P2732
+union of?P2737
+disjoint union of?P2738
+production statistic?P2746
+Filmiroda rating?P2747
+Roller Coaster Datab?P2751
+EIRIN film rating?P2756
+AUSNUT food ID?P2759
+blue-style.com ID?P2765
+JudoInside.com ID?P2767
+budget?P2769
+source of income?P2770
+D-U-N-S?P2771
+IAT weightlifter ID?P2779
+race time?P2781
+longest span?P2787
+Czech neighbourhood ?P2788
+ASF KID Cave Tag Num?P2792
+Beach Volleyball Dat?P2800
+FIVB beach volleybal?P2801
+fleet or registratio?P2802
+Wikidata time precis?P2803
+Goratings ID?P2805
+ESR station code?P2815
+Sherdog ID?P2818
+Yandex.Music album I?P2819
+totem?P2831
+individual tax rate?P2834
+NSC number?P2840
+age of onset?P2841
+incidence?P2844
+iTunes artist ID?P2850
+payment types accept?P2851
+KLOV ID?P2858
+cites?P2860
+OpenCritic ID?P2864
+Band number?P2865
+Molenecho's ID?P2867
+HKMDb film ID?P2883
+mains voltage?P2884
+FamilySearch ID?P2889
+UMLS CUI?P2892
+Skype username?P2893
+maximum sustained wi?P2895
+Beer Advocate brewer?P2904
+RateBeer brewery ID?P2905
+SecondHandSongs song?P2908
+PO Box?P2918
+focal height?P2923
+InterPro ID?P2926
+Pleiades place type ?P2938
+CageMatch tag team I?P2939
+Catalogus Professoru?P2940
+Munk's Roll ID?P2941
+Dailymotion channel ?P2942
+warheroes.ru ID?P2943
+WikiTree ID?P2949
+Cultural heritage da?P2951
+archive date?P2960
+Goodreads author ID?P2963
+National Library of ?P2966
+Spenserians person I?P2973
+patronym or matronym?P2976
+wheel arrangement?P2978
+Snapchat username?P2984
+Taekwondo Data ID?P2987
+GOST 7.67 cyrillic?P2988
+age of majority?P2997
+Untappd brewery ID?P3002
+World Archery ID?P3010
+laws applied?P3014
+railway signalling s?P3019
+flag bearer?P3022
+ITU letter code?P3024
+adjacent building?P3032
+Indonesian ethnicity?P3034
+scoresway soccer per?P3043
+footballzz ID?P3047
+racing-reference dri?P3048
+Bloomberg person ID?P3052
+Ontario MPP ID?P3054
+Architectuurgids bui?P3059
+Storting person ID?P3072
+CosIng number?P3073
+Cineplex film ID?P3077
+game artist?P3080
+freedom of panorama?P3084
+fiscal/tax revenue?P3087
+Catalogue of Life in?P3088
+Flags of the World I?P3089
+mount?P3091
+KML file?P3096
+Tela Botanica ID?P3105
+LdiF ID?P3107
+ISzDb film ID?P3110
+DistroWatch ID?P3112
+does not have part?P3113
+OpenDomesday person ?P3122
+Latindex ID?P3127
+last line?P3132
+NSZL name authority ?P3133
+elCinema film ID?P3135
+elCinema person ID?P3136
+SourehCinema film ID?P3139
+SourehCinema person ?P3140
+YouTheater ID?P3145
+molecule conformatio?P3149
+Findsmiley ID?P3152
+enclosure?P3158
+Scottish Charity num?P3163
+Olympic.org ID?P3171
+World Bridge Federat?P3172
+Zaragoza monument ID?P3178
+FANTOIR code?P3182
+VKontakte username?P3185
+innervated by?P3189
+IMIS person ID?P3191
+GS1 Manufacturer cod?P3193
+Federal Heritage Bui?P3197
+JewishGen Locality I?P3198
+Indian census area c?P3213
+Auñamendi ID?P3218
+Encyclopædia Univer?P3219
+Nationalencyklopedin?P3222
+List of lights id?P3223
+PhilPapers author?P3232
+PhilPapers profile?P3233
+Library of Congress ?P3234
+trunk prefix?P3238
+NBN System Key?P3240
+OKVED 1.1 code of th?P3243
+Doublicate Property ?P3244
+sister?P9
+route map?P15
+spouse?P26
+country of citizensh?P27
+director?P57
+screenwriter?P58
+discoverer or invent?P61
+architect?P84
+coat of arms image?P94
+field of work?P101
+native language?P103
+home venue?P115
+chemical structure?P117
+basic form of govern?P122
+owned by?P127
+regulates (molecular?P128
+operator?P137
+named after?P138
+IUCN conservation st?P141
+cast member?P161
+structure replaced b?P167
+manufacturer?P176
+crosses?P177
+business division?P199
+basin country?P205
+VIAF ID?P214
+spectral class?P215
+ISO 639-6 code?P221
+galaxy morphological?P223
+EINECS number?P232
+ISSN?P236
+coat of arms?P237
+IATA airport code?P238
+locator map image?P242
+ULAN ID?P245
+record label?P264
+CALIS?P270
+CiNii author ID?P271
+chemical formula?P274
+license?P275
+location?P276
+programming language?P277
+station code?P296
+ISO 3166-2 code?P300
+IMDb ID?P345
+HGNC ID?P354
+is a list of?P360
+Sandbox-Item?P369
+Commons category?P373
+parent astronomical ?P397
+software engine?P408
+canonization status?P411
+quantity symbol?P416
+Wikimedia language c?P424
+dantai code?P429
+MusicBrainz work ID?P435
+distribution?P437
+German municipality ?P439
+China administrative?P442
+score by?P447
+location of spacecra?P448
+industry?P452
+determination method?P459
+member of?P463
+NOR?P464
+local dialing code?P473
+CELEX number?P476
+volume?P478
+FilmAffinity ID?P480
+Palissy ID?P481
+recorded at?P483
+MeSH ID?P486
+Unicode character?P487
+chairperson?P488
+currency symbol desc?P489
+provisional designat?P490
+OMIM ID?P492
+ICD-9?P493
+ICD-10?P494
+ORCID?P496
+HURDAT identifier?P502
+honorific prefix?P511
+interleaves with?P514
+powerplant?P516
+temporal range end?P524
+runway?P529
+ATP ID?P536
+twinning?P537
+Museofile?P539
+officially opened by?P542
+commemorates?P547
+version type?P548
+website username?P554
+crystal system?P556
+central bank/issuer?P562
+point group?P589
+Ensembl Gene ID?P594
+Guide to Pharmacolog?P595
+ITF ID?P599
+mother house?P612
+coordinate location?P625
+Sandbox-GeoCoordinat?P626
+IUCN-ID?P627
+edition or translati?P629
+cultural properties ?P632
+Quebec cultural heri?P633
+captain?P634
+PDB ID?P638
+Léonore ID?P640
+Biografisch Portaal ?P651
+ICPC 2 ID?P667
+Mouse Genome Informa?P671
+incertae sedis?P678
+NCBI Taxonomy ID?P685
+UN number?P695
+Neurolex ID?P696
+ex taxon author?P697
+Kemler code?P700
+found in taxon?P703
+diocese?P708
+Strunz 8th edition (?P711
+Minor Planet Center ?P717
+GHS hazard statement?P728
+service retirement?P730
+DINOloket?P733
+cover artist?P736
+asteroid family?P744
+date of disappearanc?P746
+appointed by?P748
+Kulturminne ID?P758
+DPLA ID?P760
+surface played on?P765
+cause of destruction?P770
+Swiss municipality c?P771
+FIPS 55-3 (locations?P774
+Swedish urban area c?P775
+symptoms?P780
+hymenium type?P783
+student?P802
+Italian cadastre cod?P806
+IUCN protected areas?P814
+ITIS TSN?P815
+mascot?P822
+BBC programme ID?P827
+parent club?P831
+narrative location?P840
+United States Navy a?P847
+ESRB rating?P852
+Sandbox-URL?P855
+official website?P856
+ESPN SCRUM ID?P858
+Operational Requirem?P862
+instrumentation?P870
+printed by?P872
+phase point?P873
+UN code classificati?P875
+NFPA Other?P877
+avionics?P878
+origin of the waterc?P885
+Mathematical Reviews?P889
+Zentralblatt MATH?P894
+IPA transcription?P898
+filming location?P915
+GRAU index?P917
+NOC Occupation Code?P918
+main subject?P921
+magnetic ordering?P922
+medical treatment?P924
+postsynaptic connect?P926
+color space?P929
+PMCID?P932
+Commons gallery?P935
+KSH code?P939
+ISIN?P946
+National Library of ?P949
+MSW ID?P959
+IPNI plant ID?P961
+e-mail?P968
+located at street ad?P969
+category combines to?P971
+code for weekend and?P980
+audio recording of t?P990
+NFPA Health?P993
+NFPA Fire?P994
+scanned file on Wiki?P996
+record held?P1000
+including?P1012
+AAT ID?P1014
+BAV ID?P1017
+KldB-2010 occupation?P1021
+donated by?P1028
+legal citation of th?P1031
+GHS signal word?P1033
+main food source?P1034
+honorific suffix?P1035
+ZDB ID?P1042
+Sycomore ID?P1045
+medical condition?P1050
+PSH ID?P1051
+NDL bib ID?P1054
+product?P1056
+Thailand central adm?P1067
+Statistics Denmarks ?P1069
+readable file format?P1072
+fictional analog of?P1074
+rector?P1075
+launch contractor?P1079
+atomic number?P1086
+Elo rating?P1087
+number of speakers?P1098
+floors above ground?P1101
+refractive index?P1109
+number of episodes?P1113
+ATVK ID?P1115
+isospin quantum numb?P1126
+employees?P1128
+Kunstindeks Danmark ?P1138
+EHAK id?P1140
+BN (Argentine) editi?P1143
+Scopus Affiliation I?P1155
+CODEN?P1159
+home world?P1165
+numeric value?P1181
+Gewässerkennzahl?P1183
+MEP directory ID?P1186
+unemployment rate?P1198
+NUKAT (WarsawU) auth?P1207
+supercharger?P1210
+NLC authorities?P1213
+Riksdagen person-id?P1214
+Internet Broadway Da?P1217
+Internet Broadway Da?P1218
+NARA specific record?P1226
+astronomical filter?P1227
+Openpolis ID?P1229
+JSTOR journal code?P1230
+Linguist list code?P1232
+ISFDB publication ID?P1234
+ISFDB series ID?P1235
+ISFDB publisher ID?P1239
+Swiss Football Assoc?P1241
+International Standa?P1243
+patent number?P1246
+depicts Iconclass no?P1257
+Cultural heritage da?P1260
+valid in period?P1264
+Norway Database for ?P1271
+Norway Import Servic?P1272
+ISFDB title ID?P1274
+Legal Entity ID?P1278
+CONOR ID?P1280
+filmography?P1283
+Munzinger IBA?P1284
+Munzinger Sport numb?P1285
+KLG Kritisches Lexik?P1288
+DNB editions?P1292
+WWF ecoregion code?P1294
+instrument?P1303
+Swiss parliament ID?P1307
+lostbridges.org ID?P1311
+People Australia ID?P1315
+floruit?P1317
+proved by?P1318
+source code reposito?P1324
+external data availa?P1325
+EPSG ID?P1338
+number of injured?P1339
+Italian Chamber of D?P1341
+number of seats?P1342
+military casualty cl?P1347
+wins?P1355
+matches/games drawn/?P1357
+number of points/goa?P1359
+Monte Carlo Particle?P1360
+replaced by?P1366
+LNB ID?P1368
+Iranian National Her?P1369
+IHSI ID?P1370
+ASI Monument ID?P1371
+China railway TMIS s?P1378
+Enciclopédia Açori?P1385
+political alignment?P1387
+ComicBookDB ID?P1392
+National Cancer Inst?P1395
+Linguasphere code?P1396
+structure replaces?P1398
+Foundational Model o?P1402
+number of representa?P1410
+nominated for?P1411
+collection or exhibi?P1436
+score method?P1443
+destination point?P1444
+Sandbox Monolingual ?P1450
+legal form?P1454
+list of works?P1455
+absolute magnitude?P1457
+color index?P1458
+NIEA building ID?P1460
+Patientplus ID?P1461
+standards body?P1462
+PRDL Author ID?P1463
+WALS lect code?P1466
+WALS family code?P1468
+maximum glide ratio?P1470
+sourcing circumstanc?P1480
+vici.org ID?P1481
+kulturnoe-nasledie.r?P1483
+Glad identifier?P1529
+parent(s) of this hy?P1531
+country for sport?P1532
+end cause?P1534
+number of households?P1538
+maximum Strahler num?P1548
+Exceptional heritage?P1551
+At the Circulating L?P1564
+NIS/INS code?P1567
+BBC Genome ID?P1573
+natural product of t?P1582
+number of casualties?P1590
+defendant?P1591
+defender?P1593
+number of cases?P1603
+biosafety level?P1604
+Dialnet author ID?P1607
+History of Parliamen?P1614
+SIREN number?P1616
+date of official ope?P1619
+driving side?P1622
+MarineTraffic Port I?P1624
+Thai cultural herita?P1626
+formatter URL?P1630
+China Vitae ID?P1631
+date of baptism in e?P1636
+undercarriage?P1637
+pendant of?P1639
+curator?P1640
+acquisition transact?P1642
+departure transactio?P1643
+NIST/CODATA ID?P1645
+BBF ID?P1650
+TERYT municipality c?P1653
+MPAA film rating?P1657
+DOI Prefix?P1662
+Chess Club ID?P1666
+TGN ID?P1667
+CONA ID?P1669
+LAC ID?P1670
+general formula?P1673
+has vertex figure?P1678
+Wikidata property?P1687
+central government d?P1689
+operations and proce?P1691
+total valid votes?P1697
+is pollinated by?P1703
+native label?P1705
+biography at the Bun?P1713
+Journalisted ID?P1714
+Flora of North Ameri?P1727
+Steam Application ID?P1733
+category for films s?P1740
+Agassiz checklist nu?P1744
+Aviation Safety Netw?P1760
+Watson & Dallwitz fa?P1761
+Flemish organization?P1764
+place name sign?P1766
+attributed to?P1773
+circle of?P1776
+temple name?P1785
+International Standa?P1796
+ISO 639-5 code?P1798
+Great Aragonese Ency?P1807
+senat.fr ID?P1808
+choreographer?P1809
+short name?P1813
+Kaiserhof ID?P1818
+BAnQ ID?P1823
+ISWC?P1827
+Roud Folk Song Index?P1829
+number of registered?P1833
+draft pick number?P1836
+anti-virus alias?P1845
+Nasjonalbiblioteket ?P1847
+Perry Index?P1852
+blood type?P1853
+Kiev street code?P1854
+Wikidata property ex?P1855
+Catholic Hierarchy d?P1866
+Netflix ID?P1874
+Declarator.org ID?P1883
+Smithsonian volcano ?P1886
+Dictionary of Mediev?P1888
+BNC ID?P1890
+signatory?P1891
+Danish urban area co?P1894
+Fauna Europaea ID?P1895
+source website for t?P1896
+increased expression?P1911
+gene duplication ass?P1913
+gene inversion assoc?P1915
+altered regulation l?P1918
+CWGC burial ground I?P1920
+VIOLIN ID?P1925
+DSM-5?P1930
+NIOSH Pocket Guide I?P1931
+Digital Atlas of the?P1936
+CulturaItalia ID?P1949
+investor?P1951
+Dutch Senate person ?P1959
+Google Scholar ID?P1960
+Righteous Among The ?P1979
+Dizionario Biografic?P1986
+Delarge ID?P1988
+species kept?P1990
+LPSN URL?P1991
+medical specialty?P1995
+Facebook Places ID?P1997
+CPDL ID?P2000
+Facebook ID?P2013
+MoMA artwork id?P2014
+United States Armed ?P2028
+NASA biographical ID?P2030
+LinkedIn personal pr?P2035
+African Plant Databa?P2036
+ResearchGate person ?P2038
+Artsy artist ID?P2042
+area?P2046
+duration?P2047
+width?P2049
+density?P2054
+heat capacity?P2056
+aspect ratio?P2061
+HSDB ID?P2062
+magnetic moment?P2069
+Fellow of the Royal ?P2070
+CDB Chemical ID?P2072
+vehicle range?P2073
+pressure?P2077
+M.49 code?P2082
+Leadscope ID?P2083
+Power of 10 athlete ?P2090
+media legend?P2096
+substitute/deputy/re?P2098
+Banque de noms de li?P2100
+melting point?P2101
+RXNO Ontology?P2106
+enthalpy of vaporiza?P2116
+radius?P2120
+prize money?P2121
+Georgian national sy?P2126
+International Nuclea?P2127
+flash point?P2128
+total revenue?P2139
+foreign direct inves?P2141
+rotation period?P2147
+PubChem Substance ID?P2153
+Cell line ontology I?P2158
+Deutsche Ultramarath?P2162
+SFDb person ID?P2168
+They Work for You ID?P2171
+drug used for treatm?P2176
+Wiki Loves Monuments?P2186
+BiblioNet publicatio?P2187
+C-SPAN person ID?P2190
+students count?P2196
+upper flammable limi?P2203
+Discogs release ID?P2206
+decay width?P2223
+market capitalizatio?P2226
+torque?P2230
+units used for this ?P2237
+apoapsis?P2243
+ionization energy?P2260
+beam?P2261
+mix'n'match catalogu?P2264
+UEFA player ID?P2276
+Austrian Parliament ?P2280
+iTunes album ID?P2281
+PPP GDP per capita?P2299
+min date?P2310
+comment?P2315
+call sign?P2317
+elector?P2319
+aftershocks?P2320
+general classificati?P2321
+mean anomaly?P2325
+antagonist muscle?P2329
+Cycling Archives ID ?P2331
+SFDb company ID?P2335
+AGORHA person/instit?P2342
+AGORHA work ID?P2344
+AGORHA event identif?P2345
+applies to taxon?P2352
+NMHH film rating?P2363
+Roman agnomen?P2366
+Soccerway player ID?P2369
+conversion to SI uni?P2370
+ODIS ID?P2372
+Genius artist ID?P2373
+superpartner of?P2376
+MediaWiki hooks used?P2377
+French diocesan arch?P2385
+Elonet person ID?P2387
+OKPO ID?P2391
+YouTube channel ID?P2397
+Six Degrees of Franc?P2401
+total expenditure?P2402
+short-term exposure ?P2407
+FIE ID?P2423
+Berlin cultural heri?P2424
+RePEc Short-ID?P2428
+gender of a scientif?P2433
+Panarctic Flora ID?P2434
+narrator?P2438
+metasubclass of?P2445
+Transfermarkt.com ma?P2447
+MAME ROM?P2451
+Species Profile and ?P2455
+Mackolik.com footbal?P2458
+BugGuide ID?P2464
+Global Geoparks Netw?P2467
+Theatricalia person ?P2469
+TBRC Resource ID?P2477
+Fashion Model Direct?P2486
+page at website of B?P2487
+page at OSTIS Belaru?P2490
+Radzima.org ID?P2491
+Latvian cultural her?P2494
+Latvian toponymic na?P2496
+league level below?P2500
+classification of?P2502
+Genealogical Gazette?P2503
+carries?P2505
+KINENOTE film ID?P2508
+Jamendo artist ID?P2514
+Scope.dk person ID?P2519
+UNESCO Biosphere Res?P2520
+Ramsar Sites Informa?P2525
+Box Office Mojo fran?P2530
+Box Office Mojo stud?P2531
+defining formula?P2534
+Sandbox-Mathematical?P2535
+operating area?P2541
+sidekick of?P2546
+strand orientation?P2548
+recording or perform?P2550
+in work?P2553
+production designer?P2554
+stroke?P2557
+autores.uy database ?P2558
+BabelNet id?P2581
+Australian Wetlands ?P2584
+INSEE department cod?P2586
+maximum gradient?P2595
+PASE ID?P2625
+ISO 9362 SWIFT/BIC c?P2627
+cost of damage?P2630
+place of detention?P2632
+Filmportal ID?P2639
+Fed Cup player ID?P2642
+interested in?P2650
+CRICOS Provider Code?P2651
+partnership with?P2652
+FIFA World Ranking?P2656
+Scoville grade?P2658
+Google Knowledge Gra?P2671
+Russiancinema.ru fil?P2678
+NDL JPNO?P2687
+New York Times Seman?P2690
+FIG gymnast ID?P2696
+ESPNcricinfo player ?P2697
+EIDR identifier?P2704
+Karate Records ID?P2705
+elected in?P2715
+collage image?P2716
+Persée journal ID?P2733
+UNZ author identifie?P2734
+UNZ journal identifi?P2735
+Biographical Directo?P2736
+ResearchGate institu?P2740
+Australian Geologica?P2742
+this zoological name?P2743
+DNZB?P2745
+PRONOM software iden?P2749
+Dictionary of Canadi?P2753
+CNC film rating?P2758
+Research Papers in E?P2761
+Skyscraper Center bu?P2762
+Danish protected are?P2763
+ISO 4063 process num?P2766
+IAT triathlete ID?P2778
+IAT diver ID?P2780
+aerodrome reference ?P2786
+Loop ID?P2798
+vibration?P2806
+molar volume?P2807
+wavelength?P2808
+PGA Tour ID?P2811
+appears in the herit?P2817
+flower color?P2827
+Online World of Wres?P2830
+lowest income thresh?P2835
+highest income thres?P2836
+Wikidata month numbe?P2837
+place of marriage?P2842
+wheelchair accessibi?P2846
+produced by?P2849
+electrical plug type?P2853
+WWE.com superstar ID?P2857
+Leidse Hoogleraren I?P2861
+Nederlandse Molendat?P2863
+Hollandsche Molen ID?P2866
+record or record pro?P2869
+miRBase pre-miRNA ID?P2870
+miRBase mature miRNA?P2871
+tourist office?P2872
+PubChem BioAssay ID ?P2874
+type of unit for thi?P2876
+Minitel code?P2878
+NIOSHTIC-2 ID?P2880
+day of week?P2894
+Swedish county lette?P2898
+minimum age?P2899
+icon?P2910
+distinctive jersey?P2912
+MSBI person ID?P2914
+syntax clarification?P2916
+month of the year?P2922
+Great Russian Encycl?P2924
+INSPIRE-HEP author I?P2930
+Plarr ID?P2944
+Estonian Research Po?P2953
+throughput?P2957
+permanent duplicated?P2959
+title of chess playe?P2962
+EU River Basin Distr?P2965
+QUDT unit ID?P2968
+Goodreads book ID?P2969
+host?P2975
+maritime identificat?P2979
+UIC alphabetical cou?P2981
+UIC numerical countr?P2982
+DSBE ID?P2985
+aircraft registratio?P2986
+IBSF ID?P2991
+Galiciana ID?P3004
+Conservatoire du lit?P3009
+open period from?P3027
+EPPO Code?P3031
+ISBN publisher prefi?P3035
+spatial reference sy?P3037
+luminous intensity?P3041
+HanCinema person ID?P3045
+Fora De Jogo player ?P3046
+CMFS player ID?P3050
+Architectuurgids arc?P3058
+Basisregistratie Ins?P3061
+LepIndex ID?P3064
+speed limit?P3086
+develops from?P3094
+practiced by?P3095
+ISBN identifier grou?P3097
+ClinicalTrials.gov I?P3098
+has tense?P3103
+Gares & Connexions I?P3104
+Guardian topic ID?P3106
+Yelp ID?P3108
+FEI ID?P3111
+ISzDb person ID?P3114
+ISzDb company ID?P3115
+DSSTOX substance ide?P3117
+Code for China Reser?P3119
+TOID?P3120
+CiNetMag film ID?P3128
+OFDb ID?P3138
+EDb film ID?P3141
+elFilm film ID?P3143
+elFilm person ID?P3144
+CiNetMag person ID?P3146
+Runeberg author ID?P3154
+has grammatical mood?P3161
+Cultural Heritage Ar?P3170
+Statoids ID?P3175
+OpenCitations biblio?P3181
+Northern Ireland cha?P3200
+UAI code?P3202
+Vine user ID?P3207
+Heritage Railway Sta?P3209
+ISAN?P3212
+Onisep occupation ID?P3214
+ClassInd rating?P3216
+Dictionary of Swedis?P3217
+KvK company ID?P3220
+Cultural Heritage Ko?P3227
+SCAR Composite Gazet?P3230
+Mediaarts-DB ID?P3231
+PhilPapers topic?P3235
+SIC code?P3242
+video?P10
+highway marker?P14
+image?P18
+place of death?P20
+sex or gender?P21
+mother?P25
+continent?P30
+flag image?P41
+stepmother?P44
+shares border with?P47
+audio?P51
+constellation?P59
+ancestral home?P66
+educated at?P69
+top-level internet d?P78
+anthem?P85
+librettist?P87
+noble title?P97
+illustrator?P110
+founder?P112
+airline hub?P113
+publisher?P123
+maintained by?P126
+has dialect?P134
+movement?P135
+genre?P136
+based on?P144
+contains administrat?P150
+logo image?P154
+seal image?P158
+headquarters locatio?P159
+producer?P162
+creator?P170
+ethnic group?P172
+series?P179
+doctoral advisor?P184
+doctoral student?P185
+sister city?P190
+bathymetry image?P207
+highest judicial aut?P209
+party chief represen?P210
+ISNI?P213
+inventory number?P217
+ISO 639-2 code?P219
+canonical SMILES?P233
+InChI?P234
+ticker symbol?P249
+ATC code?P267
+BnF ID?P268
+subclass of?P279
+designer?P287
+vessel class?P289
+place of publication?P291
+ISO 3166-1 numeric c?P299
+EE breed number?P303
+director of photogra?P344
+NDL ID?P349
+UniProt ID?P352
+HGNC gene symbol?P353
+Rijksmonument ID?P359
+part of?P361
+use?P366
+Sandbox-String?P370
+located on astronomi?P376
+SCN?P377
+Mérimée ID?P380
+PCP reference number?P381
+licence plate code?P395
+SBN ID?P396
+child astronomical b?P398
+companion of?P399
+platform?P400
+OpenStreetMap Relati?P402
+mouth of the waterco?P403
+game mode?P404
+taxon author?P405
+soundtrack album?P406
+military rank?P410
+position played on t?P413
+seal description?P418
+shooting handedness?P423
+field of this occupa?P425
+callsign of airline?P432
+German district key?P440
+review score?P444
+said to be the same ?P460
+color?P462
+dan/kyu rank?P468
+lakes on river?P469
+country calling code?P474
+Canadian Register of?P477
+input device?P479
+ISO standard?P503
+ISO 15924 alpha-4 co?P506
+Swedish county code?P507
+temporal range start?P523
+diplomatic relation?P530
+port of registry?P532
+streak color?P534
+fracturing?P538
+oath made by?P543
+docking port?P546
+chivalric order?P550
+residence?P551
+terminus?P559
+basionym?P566
+underlies?P567
+overlies?P568
+date of death?P570
+inception?P571
+dissolved or abolish?P576
+publication date?P577
+Sandbox-TimeValue?P578
+IMA status and/or ra?P579
+EC number?P591
+Wine AppDB-ID?P600
+NUTS code?P605
+conflict?P607
+highest point?P610
+source of energy?P618
+time of spacecraft l?P619
+time of spacecraft l?P620
+time of spacecraft o?P621
+spacecraft docking/u?P622
+Paris city digital c?P630
+RefSeq Protein ID?P637
+RefSeq RNA ID?P639
+genomic start?P644
+Freebase ID?P646
+Open Library ID?P648
+PubMed Health?P653
+direction relative t?P654
+RTECS number?P657
+genomic assembly?P659
+MeSH Code?P672
+cell component?P681
+biological process?P682
+ortholog?P684
+BHL Page ID?P687
+NKCR AUT ID?P691
+Gene Atlas Image?P692
+Dodis?P701
+encoded by?P702
+Ensembl Protein ID?P705
+located on terrain f?P706
+Historic Scotland ID?P709
+Nickel-Strunz 10th (?P713
+Drugbank ID?P715
+OKATO ID?P721
+Internet Archive ID?P724
+voice actor?P725
+edition(s)?P747
+introduced feature?P751
+Alberta Register of ?P759
+INE municipality cod?P772
+ISO 3166-3?P773
+LAU?P782
+stipe character?P786
+approved by?P790
+ISIL ID?P791
+chapter?P792
+Air Ministry specifi?P799
+notable work?P800
+professorship?P803
+code Bien de Interé?P808
+WDPA id?P809
+academic major?P812
+retrieved?P813
+decays to?P816
+ADS bibcode?P819
+speaker?P823
+OEIS ID?P829
+day in year for peri?P837
+BioLib ID?P838
+IMSLP ID?P839
+feast day?P841
+Fossilworks ID?P842
+Saskatchewan Registe?P845
+reference URL?P854
+sponsor?P859
+e-archiv.li ID?P860
+PremiershipRugby.com?P861
+InPhO ID?P863
+Perlentaucher ID?P866
+UN class?P874
+UN packaging group?P876
+pennant number?P879
+type of variable sta?P881
+FIPS 5-2 (code for U?P883
+based on heuristic?P887
+JSTOR article ID?P888
+United States Army a?P897
+Nova Scotia Register?P909
+topic's main categor?P910
+presynaptic connecti?P925
+activating neurotran?P928
+work location?P937
+theme music?P942
+section, verse, or p?P958
+burial plot referenc?P965
+described at URL?P973
+tributary?P974
+spoken text audio?P989
+successful candidate?P991
+applies to territori?P1001
+PTBNP ID?P1005
+language regulatory ?P1018
+feed URL?P1019
+SBFI occupation code?P1024
+Digital Rights Manag?P1032
+Dewey Decimal Classi?P1036
+relative?P1038
+sockets supported?P1041
+Portuguese Job Code ?P1052
+ERA Journal ID?P1058
+CVR number?P1059
+archive URL?P1065
+PlantList-ID?P1070
+location of final as?P1071
+total produced?P1092
+number of cylinders?P1100
+sandbox-quantity?P1106
+proportion?P1107
+quantity?P1114
+pKa?P1117
+Gini coefficient?P1125
+national team caps?P1129
+nomenclatural status?P1135
+fossil found in this?P1137
+number of processor ?P1141
+Lagrangian point?P1145
+Library of Congress ?P1149
+Regensburg Classific?P1150
+topic's main Wikimed?P1151
+Scopus Author ID?P1153
+cardinality of the g?P1164
+USB ID?P1167
+approximation algori?P1171
+LIBRIS editions?P1182
+Rodovid ID?P1185
+connecting service?P1192
+carries scientific i?P1202
+Finnish municipality?P1203
+Atlas ID?P1212
+apparent magnitude?P1215
+National Heritage Li?P1216
+Internet Broadway Da?P1219
+Internet Broadway Da?P1220
+NARA geographic ID?P1224
+NARA catalog record ?P1231
+KulturNav-id?P1248
+time of earliest wri?P1249
+Danish Bibliometric ?P1250
+AlloCiné movie ID?P1265
+WOEID?P1281
+godparent?P1290
+emissivity?P1295
+depicted by?P1299
+bibcode?P1300
+primary destinations?P1302
+office held by head ?P1313
+OpenCorporates ID?P1320
+dual to?P1322
+MusicBrainz instrume?P1330
+coordinate of northe?P1332
+number of victims ma?P1345
+ploidy?P1349
+points for?P1358
+Theaterlexikon der S?P1362
+daily ridership?P1373
+capital of?P1376
+contains settlement?P1383
+German regional key?P1388
+proxy?P1393
+bug tracking system?P1401
+World Glacier Invent?P1404
+GUI toolkit or frame?P1414
+affiliation?P1416
+Encyclopædia Britan?P1417
+orbits completed?P1418
+template's main topi?P1423
+OpenPlaques subject ?P1430
+b-side?P1432
+plea?P1437
+Jewish Encyclopedia ?P1438
+Norsk filmografi ID?P1439
+image of grave?P1442
+Sports Reference ID?P1447
+motto text?P1451
+catholic.ru ID?P1453
+WALS genus code?P1467
+FIFA player ID?P1469
+reporting mark?P1471
+Nupill Literatura Di?P1473
+birth name?P1477
+has contributing fac?P1479
+Stack Exchange tag?P1482
+female population?P1539
+male population?P1540
+cause of?P1542
+Orphanet ID?P1550
+UBERON ID?P1554
+Executive Order numb?P1555
+manifestation of?P1557
+name in native langu?P1559
+MacTutor id (biograp?P1563
+exemplar of?P1574
+lifestyle?P1576
+Pleiades ID?P1584
+desa code of Indones?P1588
+deepest point?P1589
+charge?P1595
+Cambridge Alumni Dat?P1599
+Art UK venue ID?P1602
+Dialnet book?P1608
+Dialnet journal?P1609
+Dialnet article?P1610
+NATO code for grade?P1611
+IRC channel?P1613
+BBC Things ID?P1617
+sport number?P1618
+subject item of this?P1629
+subproperty of?P1647
+Dictionary of Welsh ?P1648
+KMDb person ID?P1649
+see also?P1659
+has index case?P1660
+ProCyclingStats ID (?P1663
+Cycling Database ID?P1664
+ATCvet?P1668
+subtitle?P1680
+quote?P1683
+ICD-10-PCS?P1690
+IGESPAR ID?P1702
+SANDRE ID?P1717
+beats per minute?P1725
+AllMusic artist ID?P1728
+Comedien.ch ID?P1735
+CiNii book ID?P1739
+GTAA ID?P1741
+VASCAN ID?P1745
+category related to ?P1754
+USDA PLANTS ID?P1772
+DVN ID?P1788
+Maltese Islands Nati?P1799
+named as?P1810
+RSL scanned book's i?P1815
+DSH object ID?P1822
+road number?P1824
+Baseball-Reference.c?P1826
+owner of?P1830
+investigated by?P1840
+HathiTrust id?P1844
+input set?P1851
+minimum number of pl?P1872
+income classificatio?P1879
+hair color?P1884
+different from?P1889
+lowest note?P1898
+EAGLE id?P1900
+office held by head ?P1906
+CWGC person ID?P1908
+decreased expression?P1910
+gene insertion assoc?P1914
+gene substitution as?P1916
+Ministry of Educatio?P1919
+participating teams?P1923
+Vaccine Ontology ID?P1928
+Dyntaxa ID?P1939
+McCune-Reischauer ro?P1942
+location map?P1943
+relief location map?P1944
+BerlPap identifier?P1948
+takeoff and landing ?P1956
+properties for this ?P1963
+BoxRec ID?P1967
+Open Hub ID?P1972
+Anime News Network p?P1982
+Anime News Network m?P1984
+Encyclopaedia Metall?P1989
+AllMusic composition?P1994
+parliament.uk ID?P1996
+UNESCO language stat?P1999
+Revised Romanisation?P2001
+ZooBank author ID?P2006
+cuisine?P2012
+isomeric SMILES?P2017
+Teuchos ID?P2018
+Worldfootball.net ID?P2020
+Erdős number?P2021
+German cattle breed ?P2024
+Avibase ID?P2026
+Colour Index Interna?P2027
+work period (end)?P2032
+Project Gutenberg eb?P2034
+National Gallery of ?P2041
+wingspan?P2050
+luminosity?P2060
+NIAID ChemDB ID?P2065
+fusion enthalpy?P2066
+Mémoire des hommes?P2071
+internetmedicin.se I?P2074
+user manual link?P2078
+Library of Congress ?P2089
+boiling point?P2102
+size of team at star?P2103
+power output?P2109
+wing area?P2112
+kinematic viscosity?P2118
+IDLH?P2129
+cost?P2130
+nominal GDP per capi?P2132
+total equity?P2137
+foreign direct inves?P2140
+frequency?P2144
+distance from river ?P2148
+focal length?P2151
+Guthrie code?P2161
+FAST-ID?P2163
+SIGIC author ID?P2164
+UNSPSC Code?P2167
+MoMA artist id?P2174
+medical condition tr?P2175
+solubility?P2177
+BiblioNet author ID?P2188
+average gradient?P2198
+Spotify track ID?P2207
+angular distance?P2212
+parallax?P2214
+proper motion?P2215
+radial velocity?P2216
+gyromagnetic ratio?P2222
+discharge?P2225
+explosive velocity?P2231
+cash?P2232
+external superproper?P2235
+external subproperty?P2236
+first aid measures?P2239
+median lethal dose?P2240
+Florentine musea cat?P2242
+periapsis?P2244
+Refseq Genome ID?P2249
+mobile network code?P2259
+draft?P2262
+ISOCAT id?P2263
+Musée d'Orsay artis?P2268
+Emporis building com?P2270
+Hederich encyclopedi?P2272
+Heidelberg Academy f?P2273
+World Health Organis?P2275
+CRIStin ID?P2287
+consumption rate?P2292
+employment by econom?P2297
+exception to constra?P2303
+property?P2306
+class?P2308
+constraint status?P2316
+debut participant?P2318
+article ID?P2322
+ProCyclingStats ID (?P2328
+Swedish Film Databas?P2334
+Musopen composer ID?P2338
+indigenous to?P2341
+playing range image?P2343
+YSO ID?P2347
+period?P2348
+Speedskatingbase.eu ?P2350
+number of graves?P2351
+Classification of In?P2357
+intended public?P2360
+time to altitude?P2362
+Roman cognomen?P2365
+FAO risk status?P2371
+issued by?P2378
+French Sculpture Cen?P2380
+Academic Tree ID?P2381
+Chemins de mémoire ?P2382
+statement describes?P2384
+office held by head ?P2388
+organisation directe?P2389
+Ballotpedia ID?P2390
+NCBI Locus tag?P2393
+time-weighted averag?P2404
+CiNii article ID?P2409
+Artsy gene?P2411
+sports discipline co?P2416
+stage classification?P2417
+Prosopographia Attic?P2421
+Xeno-canto species I?P2426
+expected completenes?P2429
+takeoff roll?P2430
+Thyssen-Bornemisza a?P2431
+J. Paul Getty Museum?P2432
+voltage?P2436
+conversion to standa?P2442
+Encyclopædia Britan?P2450
+DBLP pID?P2456
+elibrary.ru organisa?P2463
+Talouselämän vaiku?P2470
+NAVA ID?P2475
+NCES School ID?P2484
+Fashion Model Direct?P2485
+page at hram.by?P2489
+Latvian National Add?P2497
+Catalan Biographical?P2498
+results?P2501
+Norwegian municipali?P2504
+corrigendum / erratu?P2507
+National Discography?P2510
+Australian Ramsar si?P2516
+Scope.dk film ID?P2518
+victory?P2522
+SEED number?P2524
+National Historic Si?P2526
+moment magnitude sca?P2527
+Richter magnitude sc?P2528
+Free Software Direct?P2537
+acceptable daily int?P2542
+Italian Senate of th?P2549
+GPU?P2560
+married name?P2562
+global-warming poten?P2565
+ECHA InfoCard ID?P2566
+repealed by?P2568
+number of out of sch?P2573
+studied by?P2579
+Baltisches Biographi?P2580
+administrative code ?P2588
+Statistics Indonesia?P2589
+grammatical option i?P2591
+culture?P2596
+serial number?P2598
+Geni.com profile ID?P2600
+Kinopoisk film ID?P2603
+Kinopoisk person ID?P2604
+ČSFD person ID?P2605
+thickness?P2610
+World Heritage crite?P2614
+ISO 15924 numeric co?P2620
+Companies House ID?P2622
+model?P2634
+Minkultury Film ID?P2636
+RARS rating?P2637
+mean lifetime?P2645
+Cycling Quotient url?P2649
+Estyn ID?P2655
+target interest rate?P2661
+consumption rate per?P2662
+tier 1 capital ratio?P2663
+units sold?P2664
+Datahub page?P2666
+discontinued date?P2669
+has parts of the cla?P2670
+reply to?P2675
+relative position wi?P2677
+author of foreword?P2679
+author of afterword?P2680
+is recto of?P2681
+Bekker Number?P2683
+Opensecrets Identifi?P2686
+BARTOC ID?P2689
+New York Times Seman?P2691
+type locality?P2695
+file format?P2701
+BFI work ID?P2703
+Cycling Quotient ID ?P2708
+no-observed-adverse-?P2717
+lowest-observed-adve?P2718
+embed URL template?P2720
+Encyclopaedia Metall?P2721
+Deezer artist ID?P2722
+UIPM ID?P2726
+ISSF ID?P2730
+typeface/font?P2739
+Tate artist identifi?P2741
+PASE name?P2744
+Photographers' Ident?P2750
+exploitation visa nu?P2755
+NUTTAB food ID?P2760
+Wrestlingdata person?P2764
+FIS Nordic combined ?P2776
+Models.com client ID?P2782
+net tonnage?P2790
+power consumed?P2791
+Index Hepaticarum ID?P2794
+sound power level?P2797
+BVMC person ID?P2799
+MathWorld identifier?P2812
+mouthpiece?P2813
+P-number?P2814
+cardinality of this ?P2820
+via?P2825
+Internet Wrestling D?P2829
+Joint Electronics Ty?P2832
+professional name (J?P2838
+emergency phone numb?P2852
+disease burden?P2854
+EU Surface Water Bod?P2856
+X-SAMPA Code?P2859
+has role?P2868
+SureChEMBL ID?P2877
+Library of the Natio?P2879
+relegated?P2882
+fax number?P2900
+Molendatabase verdwe?P2903
+timezone offset?P2907
+SecondHandSongs arti?P2909
+date depicted?P2913
+ECARTICO person ID?P2915
+label in sign langua?P2919
+water as percent of ?P2927
+Encyclopedia of Tria?P2931
+connector?P2935
+language used?P2936
+Estonian cultural mo?P2948
+Transferred Account ?P2954
+point of penalty?P2955
+NAIF ID?P2956
+right to vote?P2964
+Queensland Heritage ?P2967
+ARLHS Lighthouse ID?P2980
+has grammatical case?P2989
+FIL ID?P2990
+software quality ass?P2992
+partition coefficien?P2993
+age of candidacy?P2998
+age of consent?P2999
+zanikleobce.cz aband?P3003
+Marine Regions Geogr?P3006
+Australian Heritage ?P3008
+Standard Geographica?P3012
+surface tension?P3013
+Rolling Stone artist?P3017
+residence time of wa?P3020
+Iranica ID?P3021
+Legacies of British ?P3023
+open days?P3025
+open period to?P3028
+sheet music?P3030
+CageMatch wrestling ?P3042
+College Football HoF?P3044
+Scottish FA player I?P3049
+Turner Classic Movie?P3056
+ButMoth ID?P3060
+gestation period?P3063
+RERO ID?P3065
+GLAM Identifier?P3066
+WIPO ST.3?P3068
+UN document symbol?P3069
+dynamic viscosity?P3070
+Grace's Guide ID?P3074
+official religion?P3075
+Open Beauty Facts ca?P3076
+standard enthalpy of?P3078
+damaged?P3081
+Internet Bird Collec?P3099
+Plantarium ID?P3102
+Epguides ID?P3121
+EDRPOU code?P3125
+NSW Flora ID?P3130
+TripAdvisor ID?P3134
+parent peak?P3137
+EDb person ID?P3142
+repeals?P3148
+Australian Classific?P3156
+event distance?P3157
+Minnesota legislator?P3160
+Webpedigrees ID?P3166
+Allbreedpedigree ID?P3167
+Harasire ID?P3169
+WSJ topic ID?P3183
+Czech National Bibli?P3184
+TAXREF ID?P3186
+Nobel prize ID?P3188
+innervates?P3190
+INA video ID?P3194
+league points system?P3195
+Ciné-Ressources mov?P3203
+data.gouv.fr ID?P3206
+New General Catalogu?P3208
+NYT topic ID?P3221
+Schläfli symbol?P3228
+South Dakota legisla?P3229
+PhilPapers publicati?P3236
+Catholic Encyclopedi?P3241
+OKPD code of the goo?P3245
+OKPD2 code of the go?P3249
+OKPD2 code of the go?P3250
